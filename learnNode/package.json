@@ -1,0 +1,21 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is my first node project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "C",
+    "C++",
+    "Python",
+    "JavaScript"
+  ],
+  "author": "Malik Fouzan Khan",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
