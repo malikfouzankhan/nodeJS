@@ -33,4 +33,3 @@ Axios is a promise-based HTTP client for:
 
 It is used to send requests to APIs and receive responses back.
 */
-import axios from "axios";
