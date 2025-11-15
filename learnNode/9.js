@@ -38,3 +38,6 @@ console.log("\n\n🏠",ck.hex('#39d9f5ff')("Home Directory:",os.homedir()));
 console.log("📂",ck.hex('#39d9f5ff')("Temp Directory:",os.tmpdir()));
 
 console.log("\n\n✔️",ck.hex('#008f02ff')("System Info Retrieved Successfully!"));
+
+
+// This is git streak
